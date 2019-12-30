@@ -1,1 +1,1 @@
-https://dev.to/sambenskin/howto-integrate-a-mysql-database-into-your-java-spring-boot-graphql-service-26c
+# springboot-graphql-example
